@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **ReactJS, ExpressJS and Angular**
 
-- 📫 How to reach me **sh3176183@gmail.com**
+- 📫 How to reach me **sajid.hasan.2026@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sajid006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sajid006" height="30" width="40" /></a>
-<a href="https://fb.com/saaaaaaajid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saaaaaaajid" height="30" width="40" /></a>
+<a href="https://fb.com/sajid.hasan.2026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sajid.hasan.2026" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/sajid006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sajid006" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sajid006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sajid006" height="30" width="40" /></a>
 </p>
